@@ -42,7 +42,8 @@ This application allows you to execute Python code, generate plots, and get AI-p
 3. **Clone the repository** (if using version control):
    ```bash
    git clone <repository-url>
-   cd 
+   create you own folder
+   cd <your own folder>
    ```
 
 4. **Install dependencies using uv** (faster than pip):
