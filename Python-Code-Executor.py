@@ -223,7 +223,7 @@ plt.show()""",
             
             model_name = gr.Dropdown(
                 label="LLM Model",
-                choices=["devstral:24b", "qwen2.5-coder:32b-instruct-q4_K_M", "qwen2.5-Coder-14B-Instruct-abliterated", "deepseek-r1:14b"],
+                choices=["devstral:24b", "qwen2.5-coder:32b-instruct-q4_K_M"],
                 value="devstral:24b"
             )
             
