@@ -93,11 +93,9 @@ This application allows you to execute Python code, generate plots, and get AI-p
 - **Optimize**: Receive performance optimization tips
 - **Suggest**: Get general improvement suggestions
 
-### Available Models
+### Available Models, add your own models 
 - devstral:24b (default)
 - qwen2.5-coder:32b-instruct-q4_K_M
-- qwen2.5-Coder-14B-Instruct-abliterated
-- deepseek-r1:14b
 
 ## Uninstallation
 
