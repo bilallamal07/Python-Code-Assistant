@@ -1,7 +1,6 @@
 # Python-Code-Assistant
 
-# Python Code Executor with Ollama Integration
-
+Python Code Executor with Ollama Integration
 A powerful Python code execution and analysis tool built with Gradio that integrates with Ollama for AI-powered code analysis. 
 This application allows you to execute Python code, generate plots, and get AI-powered code analysis in real-time.
 
